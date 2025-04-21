@@ -1,0 +1,5 @@
+C:/Users/chere/source/repos/CMakeProject2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/chere/source/repos/CMakeProject2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/chere/source/repos/CMakeProject2/out/build/x64-debug/CMakeProject2/CMakeFiles/CMakeProject2.dir
+C:/Users/chere/source/repos/CMakeProject2/out/build/x64-debug/CMakeProject2/CMakeFiles/edit_cache.dir
+C:/Users/chere/source/repos/CMakeProject2/out/build/x64-debug/CMakeProject2/CMakeFiles/rebuild_cache.dir
